@@ -56,7 +56,7 @@ My research interests broadly encompass computer vision, medical and biological 
 
 <tr>
 <td width="25%">
-<img src="/images/00architecture_NEpdiff.png" alt="TLRN Paper 2" width="100%">
+<img src="/images/ISBI-Atlas.png" alt="TLRN Paper 2" width="100%">
 </td>
 <td>
 <strong>Hybrid Atlas Building with Deep Registration Priors</strong><br>
@@ -73,7 +73,7 @@ My research interests broadly encompass computer vision, medical and biological 
 <table>
 <tr>
 <td width="25%">
-<img src="/images/arc.png" alt="Learning Geodesics of Geometric Shape Deformations From Images" width="100%">
+<img src="/images/CVPR2024-journal.png" alt="Learning Geodesics of Geometric Shape Deformations From Images" width="100%">
 </td>
 <td>
 <strong>Learning Geodesics of Geometric Shape Deformations from Images</strong><br>

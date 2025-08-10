@@ -26,7 +26,7 @@ My research interests broadly encompass computer vision, medical and biological 
 <strong>IGG: Image Generation Informed by Geodesic Dynamics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Nivetha Jayakumar, Jiarui Xing, Miaomiao Zhang<br>
 <b>Oral at IPMI 2025</b><br>
-<a href="https://github.com/nellie689/IGG">Code</a> | <a href="https://arxiv.org/pdf/2504.07999">Paper</a> | <a href="https://www.youtube.com/watch?v=sK-9YXiEnns">YouTube</a>
+<a href="https://arxiv.org/pdf/2504.07999">Paper</a> | <a href="https://github.com/nellie689/IGG">Code</a> | <a href="https://www.youtube.com/watch?v=sK-9YXiEnns">YouTube</a>
 </td>
 </tr>
 
@@ -38,7 +38,7 @@ My research interests broadly encompass computer vision, medical and biological 
 <strong>TLRN: Temporal Latent Residual Networks for Large Deformation Image Registration</strong><br>
 <b>Nian Wu</b>, Jiarui Xing, Miaomiao Zhang<br>
 <b>MICCAI 2024</b><br>
-<a href="https://github.com/nellie689/TLRN">Code</a> | <a href="https://arxiv.org/pdf/2407.11219">Paper</a>
+<a href="https://arxiv.org/pdf/2407.11219">Paper</a> | <a href="https://github.com/nellie689/TLRN">Code</a>
 </td>
 </tr>
 
@@ -73,7 +73,7 @@ Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick H. Epstein, Miaomiao Zh
 <strong>NeurEPDiff: Neural Operators to Predict Geodesics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Miaomiao Zhang<br>
 <b>Oral at IPMI 2023</b><br>
-<a href="https://github.com/nellie689/NeurEPDiff">Code</a> | <a href="https://arxiv.org/pdf/2303.07115">Paper</a> | <a href="https://www.youtube.com/watch?v=pK4TzHN2baU">YouTube</a>
+<a href="https://arxiv.org/pdf/2303.07115">Paper</a> | <a href="https://github.com/nellie689/NeurEPDiff">Code</a> | <a href="https://www.youtube.com/watch?v=pK4TzHN2baU">YouTube</a>
 </td>
 </tr>
 

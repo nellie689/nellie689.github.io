@@ -25,7 +25,7 @@ My research interests broadly encompass computer vision, medical and biological 
 <td>
 <strong>IGG: Image Generation Informed by Geodesic Dynamics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Nivetha Jayakumar, Jiarui Xing, Miaomiao Zhang<br>
-<i>arXiv</i><br>
+<i>Oral at IPMI2025</i><br>
 [Code](https://github.com/nellie689/IGG) | [Paper](https://arxiv.org/pdf/2504.07999) | [YouTube](https://www.youtube.com/watch?v=sK-9YXiEnns)
 </td>
 </tr>
@@ -37,8 +37,32 @@ My research interests broadly encompass computer vision, medical and biological 
 <td>
 <strong>TLRN: Temporal Latent Residual Networks for Large Deformation Image Registration</strong><br>
 <b>Nian Wu</b>, Jiarui Xing, Miaomiao Zhang<br>
-<i>arXiv</i><br>
+<i>MICCAI2024</i><br>
 [Code](https://github.com/nellie689/TLRN) | [Paper](https://arxiv.org/pdf/2407.11219)
+</td>
+</tr>
+
+<tr>
+<td width="25%">
+<img src="/images/architecture8.png" alt="TLRN Paper 2" width="100%">
+</td>
+<td>
+<strong>Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images</strong><br>
+Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick Epstein, Miaomiao Zhang<br>
+<i>Oral at ISBI2024</i><br>
+[Paper](https://arxiv.org/pdf/2402.18507) | [YouTube](https://www.youtube.com/watch?v=qBAADZsqJ8g)
+</td>
+</tr>
+
+<tr>
+<td width="25%">
+<img src="/images/architecture8.png" alt="TLRN Paper 2" width="100%">
+</td>
+<td>
+<strong>Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images</strong><br>
+Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick Epstein, Miaomiao Zhang<br>
+<i>MICCAI2024 Workshop</i><br>
+[Paper](https://arxiv.org/pdf/2402.18507) | [YouTube](https://www.youtube.com/watch?v=qBAADZsqJ8g)
 </td>
 </tr>
 
@@ -49,7 +73,7 @@ My research interests broadly encompass computer vision, medical and biological 
 <td>
 <strong>NeurEPDiff: Neural Operators to Predict Geodesics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Miaomiao Zhang<br>
-<i>arXiv</i><br>
+<i>Oral at IPMI2023</i><br>
 [Code](https://github.com/nellie689/NeurEPDiff) | [Paper](https://arxiv.org/pdf/2303.07115) | [YouTube](https://www.youtube.com/watch?v=pK4TzHN2baU)
 </td>
 </tr>
@@ -61,7 +85,7 @@ My research interests broadly encompass computer vision, medical and biological 
 <td>
 <strong>Hybrid Atlas Building with Deep Registration Priors</strong><br>
 <b>Nian Wu</b>, Jian Wang, Miaomiao Zhang, Guixu Zhang, Yaxin Peng, Chaomin Shen<br>
-<i>arXiv</i><br>
+<i>ISBI2022</i><br>
 [Paper](https://arxiv.org/pdf/2112.06406)
 </td>
 </tr>

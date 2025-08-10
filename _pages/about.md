@@ -59,10 +59,9 @@ Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick Epstein, Miaomiao Zhang
 <img src="/images/Jerry2.png" alt="TLRN Paper 2" width="100%">
 </td>
 <td>
-<strong>Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images</strong><br>
-Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick Epstein, Miaomiao Zhang<br>
-<b>MICCAI2024 Workshop</b><br>
-[Paper](https://arxiv.org/pdf/2402.18507) | [YouTube](https://www.youtube.com/watch?v=qBAADZsqJ8g)
+<strong>LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation</strong><br>
+Jiarui Xing, Nivetha Jayakumar, <b>Nian Wu</b>, Yu Wang, Frederick H. Epstein, Miaomiao Zhang<br>
+[Paper](https://arxiv.org/pdf/2407.02229) | [Code](https://github.com/jr-xing/LaMoD)
 </td>
 </tr>
 

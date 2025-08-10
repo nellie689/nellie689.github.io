@@ -101,7 +101,7 @@ Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick H. Epstein, Miaomiao Zh
 <strong>Learning Geodesics of Geometric Shape Deformations from Images</strong><br>
 <b>Nian Wu</b>, Miaomiao Zhang<br>
 <b>arXiv</b><br>
-<a href="https://github.com/nellie689/GDN">Code</a> | <a href="https://arxiv.org/pdf/2410.18797">Paper</a>
+<a href="https://arxiv.org/pdf/2410.18797">Paper</a> | <a href="https://github.com/nellie689/GDN">Code</a>
 </td>
 </tr>
 </table>

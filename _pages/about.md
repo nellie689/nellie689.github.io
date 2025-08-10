@@ -44,7 +44,19 @@ My research interests broadly encompass computer vision, medical and biological 
 
 <tr>
 <td width="25%">
-<img src="/images/architecture8.png" alt="TLRN Paper 2" width="100%">
+<img src="/images/00architecture_NEpdiff.png" alt="TLRN Paper 2" width="100%">
+</td>
+<td>
+<strong>NeurEPDiff: Neural Operators to Predict Geodesics in Deformation Spaces</strong><br>
+<b>Nian Wu</b>, Miaomiao Zhang<br>
+<i>arXiv</i><br>
+[Code](https://github.com/nellie689/NeurEPDiff) | [Paper](https://arxiv.org/pdf/2303.07115)
+</td>
+</tr>
+
+<tr>
+<td width="25%">
+<img src="/images/00architecture_NEpdiff.png" alt="TLRN Paper 2" width="100%">
 </td>
 <td>
 <strong>NeurEPDiff: Neural Operators to Predict Geodesics in Deformation Spaces</strong><br>

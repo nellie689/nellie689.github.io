@@ -21,7 +21,7 @@ My research interests broadly encompass computer vision, medical and biological 
 
 <tr>
 <td width="25%">
-<img src="/images/arc.png" alt="IGG paper figure" width="100%">
+<img src="/images/DEB-MICCAI.png" alt="MICCAI paper figure" width="100%">
 </td>
 <td>
 <strong>Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model</strong><br>

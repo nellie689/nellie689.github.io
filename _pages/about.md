@@ -49,6 +49,7 @@ My research interests broadly encompass computer vision, medical and biological 
 <td>
 <strong>LaMoD: Latent Motion Diffusion Model for Myocardial Strain Generation</strong><br>
 Jiarui Xing, Nivetha Jayakumar, <b>Nian Wu</b>, Yu Wang, Frederick H. Epstein, Miaomiao Zhang<br>
+<b>ShapeMI 2024</b><br>
 <a href="https://arxiv.org/pdf/2407.02229">Paper</a> | <a href="https://github.com/jr-xing/LaMoD">Code</a>
 </td>
 </tr>

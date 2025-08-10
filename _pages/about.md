@@ -20,7 +20,7 @@ My research interests broadly encompass computer vision, medical and biological 
 <table>
 <tr>
 <td width="25%">
-<img src="path/to/image1.png" alt="TLRN Paper 1" width="100%">
+<img src="images/arc.png" alt="TLRN Paper 1" width="100%">
 </td>
 <td>
 <strong>TLRN: Temporal Latent Residual Networks for Large Deformation Image Registration</strong><br>
@@ -32,7 +32,7 @@ My research interests broadly encompass computer vision, medical and biological 
 
 <tr>
 <td width="25%">
-<img src="path/to/image2.png" alt="TLRN Paper 2" width="100%">
+<img src="images/architecture8.png" alt="TLRN Paper 2" width="100%">
 </td>
 <td>
 <strong>TLRN: Temporal Latent Residual Networks for Large Deformation Image Registration</strong><br>

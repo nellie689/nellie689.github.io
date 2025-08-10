@@ -59,12 +59,31 @@ My research interests broadly encompass computer vision, medical and biological 
 <img src="/images/00architecture_NEpdiff.png" alt="TLRN Paper 2" width="100%">
 </td>
 <td>
-<strong>NeurEPDiff: Neural Operators to Predict Geodesics in Deformation Spaces</strong><br>
-<b>Nian Wu</b>, Miaomiao Zhang<br>
+<strong>Hybrid Atlas Building with Deep Registration Priors</strong><br>
+<b>Nian Wu</b>, Jian Wang, Miaomiao Zhang, Guixu Zhang, Yaxin Peng, Chaomin Shen<br>
 <i>arXiv</i><br>
-[Code](https://github.com/nellie689/NeurEPDiff) | [Paper](https://arxiv.org/pdf/2303.07115)
+[Paper](https://arxiv.org/pdf/2112.06406)
 </td>
 </tr>
+</table>
+
+
+## Under Review at MELBA
+
+<table>
+<tr>
+<td width="25%">
+<img src="/images/arc.png" alt="Learning Geodesics of Geometric Shape Deformations From Images" width="100%">
+</td>
+<td>
+<strong>Learning Geodesics of Geometric Shape Deformations from Images</strong><br>
+<b>Nian Wu</b>, Miaomiao Zhang<br>
+<i>arXiv</i><br>
+[Code](https://github.com/nellie689/GDN) | [Paper](https://arxiv.org/pdf/2410.18797)
+</td>
+</tr>
+</table>
+
 </table>
 
 

@@ -18,6 +18,20 @@ My research interests broadly encompass computer vision, medical and biological 
 ## Publications
 
 <table>
+
+<tr>
+<td width="25%">
+<img src="/images/arc.png" alt="IGG paper figure" width="100%">
+</td>
+<td>
+<strong>Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model</strong><br>
+ Swakshar Deb, <b>Nian Wu</b>, Frederick H. Epstein, Miaomiao Zhang<br>
+<b>Oral at MICCAI 2025</b><br>
+<a href="https://arxiv.org/pdf/2507.02003">Paper</a> | <a href="https://github.com/SwaksharDeb/MFD-V2V">Code</a> | <a href="https://www.youtube.com/watch?v=sK-9YXiEnns">YouTube</a>
+</td>
+</tr>
+
+
 <tr>
 <td width="25%">
 <img src="/images/arc.png" alt="IGG paper figure" width="100%">

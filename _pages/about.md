@@ -44,6 +44,7 @@ My research interests broadly encompass computer vision, medical and biological 
 </td>
 </tr>
 
+
 <tr>
 <td width="25%">
 <img src="/images/architecture8.png" alt="TLRN architecture figure" width="100%">

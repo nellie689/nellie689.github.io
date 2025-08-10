@@ -44,6 +44,18 @@ My research interests broadly encompass computer vision, medical and biological 
 
 <tr>
 <td width="25%">
+<img src="/images/Jerry2.png" alt="TLRN Paper 2" width="100%">
+</td>
+<td>
+<strong>LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation</strong><br>
+Jiarui Xing, Nivetha Jayakumar, <b>Nian Wu</b>, Yu Wang, Frederick H. Epstein, Miaomiao Zhang<br>
+[Paper](https://arxiv.org/pdf/2407.02229) | [Code](https://github.com/jr-xing/LaMoD)
+</td>
+</tr>
+
+
+<tr>
+<td width="25%">
 <img src="/images/Jerry1.png" alt="Multimodal Paper 3" width="100%">
 </td>
 <td>
@@ -54,16 +66,6 @@ Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick Epstein, Miaomiao Zhang
 </td>
 </tr>
 
-<tr>
-<td width="25%">
-<img src="/images/Jerry2.png" alt="TLRN Paper 2" width="100%">
-</td>
-<td>
-<strong>LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation</strong><br>
-Jiarui Xing, Nivetha Jayakumar, <b>Nian Wu</b>, Yu Wang, Frederick H. Epstein, Miaomiao Zhang<br>
-[Paper](https://arxiv.org/pdf/2407.02229) | [Code](https://github.com/jr-xing/LaMoD)
-</td>
-</tr>
 
 <tr>
 <td width="25%">
@@ -72,7 +74,7 @@ Jiarui Xing, Nivetha Jayakumar, <b>Nian Wu</b>, Yu Wang, Frederick H. Epstein, M
 <td>
 <strong>NeurEPDiff: Neural Operators to Predict Geodesics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Miaomiao Zhang<br>
-<i>Oral at IPMI2023</i><br>
+<b>Oral at IPMI2023</b><br>
 [Code](https://github.com/nellie689/NeurEPDiff) | [Paper](https://arxiv.org/pdf/2303.07115) | [YouTube](https://www.youtube.com/watch?v=pK4TzHN2baU)
 </td>
 </tr>
@@ -84,7 +86,7 @@ Jiarui Xing, Nivetha Jayakumar, <b>Nian Wu</b>, Yu Wang, Frederick H. Epstein, M
 <td>
 <strong>Hybrid Atlas Building with Deep Registration Priors</strong><br>
 <b>Nian Wu</b>, Jian Wang, Miaomiao Zhang, Guixu Zhang, Yaxin Peng, Chaomin Shen<br>
-<i>ISBI2022</i><br>
+<b>ISBI2022</b><br>
 [Paper](https://arxiv.org/pdf/2112.06406)
 </td>
 </tr>
@@ -101,7 +103,7 @@ Jiarui Xing, Nivetha Jayakumar, <b>Nian Wu</b>, Yu Wang, Frederick H. Epstein, M
 <td>
 <strong>Learning Geodesics of Geometric Shape Deformations from Images</strong><br>
 <b>Nian Wu</b>, Miaomiao Zhang<br>
-<i>arXiv</i><br>
+<b>arXiv</b><br>
 [Code](https://github.com/nellie689/GDN) | [Paper](https://arxiv.org/pdf/2410.18797)
 </td>
 </tr>

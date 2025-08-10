@@ -23,10 +23,10 @@ My research interests broadly encompass computer vision, medical and biological 
 <img src="/images/arc.png" alt="TLRN Paper 1" width="100%">
 </td>
 <td>
-<strong>TLRN: Temporal Latent Residual Networks for Large Deformation Image Registration</strong><br>
+<strong>IGG: Image Generation Informed by Geodesic Dynamics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Nivetha Jayakumar, Jiarui Xing, Miaomiao Zhang<br>
 <i>arXiv</i><br>
-[Code](https://github.com/nellie689/IGG) | [Paper](https://arxiv.org/pdf/2504.07999)
+[Code](https://github.com/nellie689/IGG) | [Paper](https://arxiv.org/pdf/2504.07999) | [YouTube](https://www.youtube.com/watch?v=sK-9YXiEnns)
 </td>
 </tr>
 
@@ -50,7 +50,7 @@ My research interests broadly encompass computer vision, medical and biological 
 <strong>NeurEPDiff: Neural Operators to Predict Geodesics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Miaomiao Zhang<br>
 <i>arXiv</i><br>
-[Code](https://github.com/nellie689/NeurEPDiff) | [Paper](https://arxiv.org/pdf/2303.07115)
+[Code](https://github.com/nellie689/NeurEPDiff) | [Paper](https://arxiv.org/pdf/2303.07115) | [YouTube](https://www.youtube.com/watch?v=pK4TzHN2baU)
 </td>
 </tr>
 

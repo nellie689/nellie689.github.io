@@ -20,12 +20,12 @@ My research interests broadly encompass computer vision, medical and biological 
 <table>
 <tr>
 <td width="25%">
-<img src="/images/arc.png" alt="TLRN Paper 1" width="100%">
+<img src="/images/arc.png" alt="IGG Paper 1" width="100%">
 </td>
 <td>
 <strong>IGG: Image Generation Informed by Geodesic Dynamics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Nivetha Jayakumar, Jiarui Xing, Miaomiao Zhang<br>
-<i>Oral at IPMI2025</i><br>
+<b>Oral at IPMI2025</b><br>
 [Code](https://github.com/nellie689/IGG) | [Paper](https://arxiv.org/pdf/2504.07999) | [YouTube](https://www.youtube.com/watch?v=sK-9YXiEnns)
 </td>
 </tr>
@@ -37,31 +37,31 @@ My research interests broadly encompass computer vision, medical and biological 
 <td>
 <strong>TLRN: Temporal Latent Residual Networks for Large Deformation Image Registration</strong><br>
 <b>Nian Wu</b>, Jiarui Xing, Miaomiao Zhang<br>
-<i>MICCAI2024</i><br>
+<b>MICCAI2024</b><br>
 [Code](https://github.com/nellie689/TLRN) | [Paper](https://arxiv.org/pdf/2407.11219)
 </td>
 </tr>
 
 <tr>
 <td width="25%">
-<img src="/images/architecture8.png" alt="TLRN Paper 2" width="100%">
+<img src="/images/Jerry1.png" alt="Multimodal Paper 3" width="100%">
 </td>
 <td>
 <strong>Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images</strong><br>
 Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick Epstein, Miaomiao Zhang<br>
-<i>Oral at ISBI2024</i><br>
+<b>Oral at ISBI2024</b><br>
 [Paper](https://arxiv.org/pdf/2402.18507) | [YouTube](https://www.youtube.com/watch?v=qBAADZsqJ8g)
 </td>
 </tr>
 
 <tr>
 <td width="25%">
-<img src="/images/architecture8.png" alt="TLRN Paper 2" width="100%">
+<img src="/images/Jerry2.png" alt="TLRN Paper 2" width="100%">
 </td>
 <td>
 <strong>Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images</strong><br>
 Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick Epstein, Miaomiao Zhang<br>
-<i>MICCAI2024 Workshop</i><br>
+<b>MICCAI2024 Workshop</b><br>
 [Paper](https://arxiv.org/pdf/2402.18507) | [YouTube](https://www.youtube.com/watch?v=qBAADZsqJ8g)
 </td>
 </tr>
@@ -106,8 +106,6 @@ Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick Epstein, Miaomiao Zhang
 [Code](https://github.com/nellie689/GDN) | [Paper](https://arxiv.org/pdf/2410.18797)
 </td>
 </tr>
-</table>
-
 </table>
 
 

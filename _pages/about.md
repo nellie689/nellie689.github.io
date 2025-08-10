@@ -20,91 +20,88 @@ My research interests broadly encompass computer vision, medical and biological 
 <table>
 <tr>
 <td width="25%">
-<img src="/images/arc.png" alt="IGG Paper 1" width="100%">
+<img src="/images/arc.png" alt="IGG paper figure" width="100%">
 </td>
 <td>
 <strong>IGG: Image Generation Informed by Geodesic Dynamics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Nivetha Jayakumar, Jiarui Xing, Miaomiao Zhang<br>
-<b>Oral at IPMI2025</b><br>
-[Code](https://github.com/nellie689/IGG) | [Paper](https://arxiv.org/pdf/2504.07999) | [YouTube](https://www.youtube.com/watch?v=sK-9YXiEnns)
+<b>Oral at IPMI 2025</b><br>
+<a href="https://github.com/nellie689/IGG">Code</a> | <a href="https://arxiv.org/pdf/2504.07999">Paper</a> | <a href="https://www.youtube.com/watch?v=sK-9YXiEnns">YouTube</a>
 </td>
 </tr>
 
 <tr>
 <td width="25%">
-<img src="/images/architecture8.png" alt="TLRN Paper 2" width="100%">
+<img src="/images/architecture8.png" alt="TLRN architecture figure" width="100%">
 </td>
 <td>
 <strong>TLRN: Temporal Latent Residual Networks for Large Deformation Image Registration</strong><br>
 <b>Nian Wu</b>, Jiarui Xing, Miaomiao Zhang<br>
-<b>MICCAI2024</b><br>
-[Code](https://github.com/nellie689/TLRN) | [Paper](https://arxiv.org/pdf/2407.11219)
+<b>MICCAI 2024</b><br>
+<a href="https://github.com/nellie689/TLRN">Code</a> | <a href="https://arxiv.org/pdf/2407.11219">Paper</a>
 </td>
 </tr>
 
 <tr>
 <td width="25%">
-<img src="/images/Jerry2.png" alt="TLRN Paper 2" width="100%">
+<img src="/images/Jerry2.png" alt="LaMoD paper figure" width="100%">
 </td>
 <td>
-<strong>LaMoD: Latent Motion Diffusion Model For Myocardial Strain Generation</strong><br>
+<strong>LaMoD: Latent Motion Diffusion Model for Myocardial Strain Generation</strong><br>
 Jiarui Xing, Nivetha Jayakumar, <b>Nian Wu</b>, Yu Wang, Frederick H. Epstein, Miaomiao Zhang<br>
-[Paper](https://arxiv.org/pdf/2407.02229) | [Code](https://github.com/jr-xing/LaMoD)
+<a href="https://arxiv.org/pdf/2407.02229">Paper</a> | <a href="https://github.com/jr-xing/LaMoD">Code</a>
 </td>
 </tr>
 
-
 <tr>
 <td width="25%">
-<img src="/images/Jerry1.png" alt="Multimodal Paper 3" width="100%">
+<img src="/images/Jerry1.png" alt="Multimodal cardiac detection paper figure" width="100%">
 </td>
 <td>
-<strong>Multimodal Learning To Improve Cardiac Late Mechanical Activation Detection From Cine MR Images</strong><br>
-Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick Epstein, Miaomiao Zhang<br>
-<b>Oral at ISBI2024</b><br>
-[Paper](https://arxiv.org/pdf/2402.18507) | [YouTube](https://www.youtube.com/watch?v=qBAADZsqJ8g)
+<strong>Multimodal Learning to Improve Cardiac Late Mechanical Activation Detection from Cine MR Images</strong><br>
+Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick H. Epstein, Miaomiao Zhang<br>
+<b>Oral at ISBI 2024</b><br>
+<a href="https://arxiv.org/pdf/2402.18507">Paper</a> | <a href="https://www.youtube.com/watch?v=qBAADZsqJ8g">YouTube</a>
 </td>
 </tr>
 
-
 <tr>
 <td width="25%">
-<img src="/images/00architecture_NEpdiff.png" alt="TLRN Paper 2" width="100%">
+<img src="/images/00architecture_NEpdiff.png" alt="NeurEPDiff architecture figure" width="100%">
 </td>
 <td>
 <strong>NeurEPDiff: Neural Operators to Predict Geodesics in Deformation Spaces</strong><br>
 <b>Nian Wu</b>, Miaomiao Zhang<br>
-<b>Oral at IPMI2023</b><br>
-[Code](https://github.com/nellie689/NeurEPDiff) | [Paper](https://arxiv.org/pdf/2303.07115) | [YouTube](https://www.youtube.com/watch?v=pK4TzHN2baU)
+<b>Oral at IPMI 2023</b><br>
+<a href="https://github.com/nellie689/NeurEPDiff">Code</a> | <a href="https://arxiv.org/pdf/2303.07115">Paper</a> | <a href="https://www.youtube.com/watch?v=pK4TzHN2baU">YouTube</a>
 </td>
 </tr>
 
 <tr>
 <td width="25%">
-<img src="/images/ISBI-Atlas.png" alt="TLRN Paper 2" width="100%">
+<img src="/images/ISBI-Atlas.png" alt="Hybrid Atlas Building paper figure" width="100%">
 </td>
 <td>
 <strong>Hybrid Atlas Building with Deep Registration Priors</strong><br>
 <b>Nian Wu</b>, Jian Wang, Miaomiao Zhang, Guixu Zhang, Yaxin Peng, Chaomin Shen<br>
-<b>ISBI2022</b><br>
-[Paper](https://arxiv.org/pdf/2112.06406)
+<b>ISBI 2022</b><br>
+<a href="https://arxiv.org/pdf/2112.06406">Paper</a>
 </td>
 </tr>
 </table>
-
 
 ## Under Review at MELBA
 
 <table>
 <tr>
 <td width="25%">
-<img src="/images/CVPR2024-journal.png" alt="Learning Geodesics of Geometric Shape Deformations From Images" width="100%">
+<img src="/images/CVPR2024-journal.png" alt="Learning Geodesics paper figure" width="100%">
 </td>
 <td>
 <strong>Learning Geodesics of Geometric Shape Deformations from Images</strong><br>
 <b>Nian Wu</b>, Miaomiao Zhang<br>
 <b>arXiv</b><br>
-[Code](https://github.com/nellie689/GDN) | [Paper](https://arxiv.org/pdf/2410.18797)
+<a href="https://github.com/nellie689/GDN">Code</a> | <a href="https://arxiv.org/pdf/2410.18797">Paper</a>
 </td>
 </tr>
 </table>

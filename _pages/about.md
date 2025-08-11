@@ -11,7 +11,9 @@ I am **Nian Wu**, a third-year Ph.D. student in the Department of Electrical and
 
 Before attending UVA, I earned my M.S. in Computer Technology from East China Normal University (ECNU), where I worked with Dr. Chaomin Shen as a Research Assistant.  
 
-My research interests broadly encompass computer vision, medical and biological imaging, and machine learning. More specifically, my current work focuses on spatial alignment of images and spatiotemporal image analysis, as well as shape analysis of deformation progression using neural differential equations. My work has been published in leading conferences such as MICCAI, IPMI, and ISBI.
+My research focuses on developing time-efficient and robust machine learning algorithms for medical and biological
+image analysis, particularly in scenarios with limited computational resources. My work spans spatiotemporal
+imaging analysis and pairwise image comparison, which has been published in leading conferences such as MICCAI, IPMI, and ISBI.
 
 
 

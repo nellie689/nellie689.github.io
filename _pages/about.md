@@ -11,15 +11,38 @@ I am **Nian Wu**, a third-year Ph.D. student in the Department of Electrical and
 
 Before attending UVA, I earned my M.S. in Computer Technology from East China Normal University (ECNU), where I worked with Dr. Chaomin Shen as a Research Assistant.  
 
-My research focuses on developing time-efficient and robust machine learning algorithms for medical and biological
-image analysis, particularly in scenarios with limited computational resources. My work spans spatiotemporal
-imaging analysis and pairwise image comparison, which has been published in leading conferences such as MICCAI, IPMI, and ISBI.
+My research interests lie in Computer Vision, Medical Image Analysis, and Generative AI. I focus on developing time-efficient and robust machine learning algorithms for image registration, motion tracking, medical imaging synthesis, and atlas construction, with applications in cardiovascular imaging and neuroimaging. My research has been published in leading venues, including MICCAI, IPMI, ISBI, and the Machine Learning for Biomedical Imaging (MELBA) journal.
 
 
 
 ## Publications
 
 <table>
+<tr>
+<td width="25%">
+<img src="/images/CVPR2024-journal.png" alt="Learning Geodesics paper figure" width="100%">
+</td>
+<td>
+<strong>Learning Geodesics of Geometric Shape Deformations from Images</strong><br>
+<b>Nian Wu</b>, Miaomiao Zhang<br>
+<b>MELBA (Journal)</b><br>
+<a href="https://arxiv.org/pdf/2410.18797">Paper</a> | <a href="https://github.com/nellie689/GDN">Code</a>
+</td>
+</tr>
+
+
+<tr>
+<td width="25%">
+<img src="/images/**.png" alt="MICCAI paper figure" width="100%">
+</td>
+<td>
+<strong>Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model</strong><br>
+ Swakshar Deb, <b>Nian Wu</b>, Frederick H. Epstein, Miaomiao Zhang<br>
+<b>Oral at MICCAI 2025</b><br>
+<a href="https://arxiv.org/pdf/2507.02003">Paper</a> | <a href="https://github.com/SwaksharDeb/MFD-V2V">Code</a> | <a href="https://www.youtube.com/watch?v=sK-9YXiEnns">YouTube</a>
+</td>
+</tr>
+
 
 <tr>
 <td width="25%">
@@ -108,20 +131,33 @@ Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick H. Epstein, Miaomiao Zh
 </tr>
 </table>
 
-## Under Review at MELBA
+## Under Review at
 
 <table>
 <tr>
 <td width="25%">
-<img src="/images/CVPR2024-journal.png" alt="Learning Geodesics paper figure" width="100%">
+<img src="/images/arc.png" alt="Geodesic-informed Generative Diffusion Model" width="100%">
 </td>
 <td>
-<strong>Learning Geodesics of Geometric Shape Deformations from Images</strong><br>
-<b>Nian Wu</b>, Miaomiao Zhang<br>
-<b>arXiv</b><br>
-<a href="https://arxiv.org/pdf/2410.18797">Paper</a> | <a href="https://github.com/nellie689/GDN">Code</a>
+<strong>Geodesic-informed Generative Diffusion Model for Topology-preserved Image Video Generation</strong>
+  <b>Nian Wu</b>, Nivetha Jayakumar, Jiarui Xing, Miaomiao Zhang<br>
+<b>Under Review at MEBAL (Journal)</b><br>
+<!-- <a href="https://arxiv.org/pdf/2507.02003">Paper</a> | <a href="https://github.com/SwaksharDeb/MFD-V2V">Code</a> | <a href="https://www.youtube.com/watch?v=sK-9YXiEnns">YouTube</a> -->
 </td>
 </tr>
+
+  <tr>
+<!-- <td width="25%">
+<!-- <img src="/images/arc.png" alt="Geodesic-informed Generative Diffusion Model" width="100%"> -->
+</td> -->
+<td>
+<strong>DeepLDDMM: Learning-Based Large Deformation Metric Mappings with Geodesic Constraint</strong>
+  <b>Nian Wu</b> and Miaomiao Zhang<br>
+<b>Under Review at ISBI2026</b><br>
+<!-- <a href="https://arxiv.org/pdf/2507.02003">Paper</a> | <a href="https://github.com/SwaksharDeb/MFD-V2V">Code</a> | <a href="https://www.youtube.com/watch?v=sK-9YXiEnns">YouTube</a> -->
+</td>
+</tr>
+
 </table>
 
 

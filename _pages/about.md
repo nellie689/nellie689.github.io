@@ -147,9 +147,9 @@ Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick H. Epstein, Miaomiao Zh
 </tr>
 
   <tr>
-<!-- <td width="25%">
+<td width="25%">
 <!-- <img src="/images/arc.png" alt="Geodesic-informed Generative Diffusion Model" width="100%"> -->
-</td> -->
+</td>
 <td>
 <strong>DeepLDDMM: Learning-Based Large Deformation Metric Mappings with Geodesic Constraint</strong>
   <b>Nian Wu</b> and Miaomiao Zhang<br>

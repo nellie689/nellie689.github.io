@@ -31,7 +31,7 @@ My research interests lie in Computer Vision, Medical Image Analysis, and Genera
 </tr>
 
 
-<tr>
+<!-- <tr>
 <td width="25%">
 <img src="/images/**.png" alt="MICCAI paper figure" width="100%">
 </td>
@@ -41,7 +41,7 @@ My research interests lie in Computer Vision, Medical Image Analysis, and Genera
 <b>Oral at MICCAI 2025</b><br>
 <a href="https://arxiv.org/pdf/2507.02003">Paper</a> | <a href="https://github.com/SwaksharDeb/MFD-V2V">Code</a> | <a href="https://www.youtube.com/watch?v=sK-9YXiEnns">YouTube</a>
 </td>
-</tr>
+</tr> -->
 
 
 <tr>

@@ -120,7 +120,7 @@ Jiarui Xing, <b>Nian Wu</b>, Kenneth Bilchick, Frederick H. Epstein, Miaomiao Zh
 </tr>
 </table>
 
-## Under Review at
+## Under Review
 
 <table>
 <tr>

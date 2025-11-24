@@ -17,7 +17,7 @@ My research has been published in leading venues, including MICCAI, IPMI, ISBI, 
 
 
 
-## Publications
+## Selected Publications
 
 <table>
 <tr>

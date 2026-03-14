@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Nian Wu**, a third-year Ph.D. student in the Department of Electrical and Computer Engineering at the University of Virginia (UVA). I work as a Graduate Research Assistant in the [MIA Lab](https://www.cs.virginia.edu/~mz8rr/index.html) under the supervision of [Prof. Miaomiao Zhang](https://www.cs.virginia.edu/~mz8rr/index.html).  
+I am a third-year Ph.D. student in the Department of Electrical and Computer Engineering at the University of Virginia (UVA). I work as a Graduate Research Assistant in the [MIA Lab](https://www.cs.virginia.edu/~mz8rr/index.html) under the supervision of [Prof. Miaomiao Zhang](https://www.cs.virginia.edu/~mz8rr/index.html).  
 
 Before attending UVA, I earned my M.S. in Computer Technology from East China Normal University (ECNU), where I worked with Dr. Chaomin Shen as a Research Assistant.  
 

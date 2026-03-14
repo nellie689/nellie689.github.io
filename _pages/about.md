@@ -11,11 +11,11 @@ I am **Nian Wu**, a third-year Ph.D. student in the Department of Electrical and
 
 Before attending UVA, I earned my M.S. in Computer Technology from East China Normal University (ECNU), where I worked with Dr. Chaomin Shen as a Research Assistant.  
 
-My research interests lie in Medical Image Analysis, Computer Vision, and Generative AI. I focus on developing time-efficient and robust machine learning algorithms for image registration, motion tracking, medical imaging synthesis, and atlas construction, with applications in neuroimaging and cardiovascular imaging. 
+My research focuses on modeling and understanding anatomical structure changes in medical imaging data, including both images and videos, with applications in Alzheimer’s disease analysis and cardiac motion abnormality detection. I develop time-efficient methods, including image registration and atlas construction, to capture and quantify anatomical shape changes, with an emphasis on robustness, well-regularization, and cross-domain generalization. 
 
-My research has been published in leading venues, including MICCAI, IPMI, ISBI, and the Machine Learning for Biomedical Imaging (MELBA) journal.
+In addition, I work on diffusion-based generative models for reliable and realistic medical image synthesis, including brain MRI and cross-domain cardiac MRI synthesis, paving the way toward alleviating data scarcity in medical imaging analysis. 
 
-
+I have publications in leading venues including MICCAI, IPMI, ISBI, and MELBA.
 
 ## Selected Publications
 

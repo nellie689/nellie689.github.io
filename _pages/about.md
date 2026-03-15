@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nian Wu (Medical Image Analysis | Generative Models | Geometric Deformation)"
+title: "Nian Wu (Medical Image Analysis - Generative Models - Geometric Deformation)"
 author_profile: true
 redirect_from: 
   - /about/

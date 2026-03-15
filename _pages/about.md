@@ -14,9 +14,9 @@ I am a third-year Ph.D. student in the Department of Electrical and Computer Eng
 
 Before attending UVA, I earned my M.S. in Computer Technology from East China Normal University (ECNU), where I worked with Dr. Chaomin Shen as a Research Assistant.  
 
-My research focuses on <span style="color:#E67E22;">modeling and understanding anatomical structure changes</span> in medical imaging data, including both images and videos, with applications in Alzheimer’s disease analysis and cardiac motion abnormality detection. I develop time-efficient methods, including image registration and atlas construction, to capture and quantify anatomical shape changes, with an emphasis on robustness, well-regularization, and cross-domain generalization. 
+My research focuses on <span style="color:#E67E22;">**modeling and understanding anatomical structure changes**</span> in medical imaging data, including both images and videos, with applications in Alzheimer’s disease analysis and cardiac motion abnormality detection. I develop time-efficient methods, including image registration and atlas construction, to capture and quantify anatomical shape changes, with an emphasis on robustness, well-regularization, and cross-domain generalization. 
 
-In addition, I work on <span style="color:#E67E22;">diffusion-based generative models</span> for reliable and realistic medical image synthesis, including brain MRI and cross-domain cardiac MRI synthesis, paving the way toward alleviating data scarcity in medical imaging analysis. 
+In addition, I work on <span style="color:#E67E22;">**diffusion-based generative models**</span> for reliable and realistic medical image synthesis, including brain MRI and cross-domain cardiac MRI synthesis, paving the way toward alleviating data scarcity in medical imaging analysis. 
 
 I have publications in leading venues including MICCAI, IPMI, ISBI, and MELBA.
 

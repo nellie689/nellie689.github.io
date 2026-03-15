@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:#E67E22;">
-**Medical Image Analysis | Generative Models | Geometric Deformation**
-</span>
+<span style="color:#E67E22;">**Medical Image Analysis | Generative Models | Geometric Deformation**</span>
 
 I am a third-year Ph.D. student in the Department of Electrical and Computer Engineering at the University of Virginia (UVA). I work as a Graduate Research Assistant in the [MIA Lab](https://www.cs.virginia.edu/~mz8rr/index.html) under the supervision of [Prof. Miaomiao Zhang](https://www.cs.virginia.edu/~mz8rr/index.html).  
 

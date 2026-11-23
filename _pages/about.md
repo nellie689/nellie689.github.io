@@ -6,17 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:#E67E22;">**Deep Image Analysis and Generation Based on Deformable Shape Changes**</span>
+<span style="color:#E67E22;">**Medical Image Analysis with Generative AI and Physics-informed Deep Learning Models**</span>
 
-<span style="color:#E67E22;">**Medical Image Analysis | Generative Models | Geometric Deformation**</span>
+<span style="color:#E67E22;">**Atlas Construction | Image Generation | Deformable Registration | Motion Tracking**</span>
 
 I am a third-year Ph.D. student in the Department of Electrical and Computer Engineering at the University of Virginia (UVA). I work as a Graduate Research Assistant in the [MIA Lab](https://www.cs.virginia.edu/~mz8rr/index.html) under the supervision of [Prof. Miaomiao Zhang](https://www.cs.virginia.edu/~mz8rr/index.html).  
 
 Before attending UVA, I earned my M.S. in Computer Technology from East China Normal University (ECNU), where I worked with Dr. Chaomin Shen as a Research Assistant.  
 
-My research focuses on <span style="color:#E67E22;">**modeling and understanding anatomical structure changes**</span> in medical imaging data, including both images and videos, with applications in Alzheimer’s disease analysis and cardiac motion abnormality detection. I develop time-efficient methods, including image registration and atlas construction, to capture and quantify anatomical shape changes, with an emphasis on robustness, well-regularization, and cross-domain generalization. 
 
-In addition, I work on <span style="color:#E67E22;">**diffusion-based generative models**</span> for reliable and realistic medical image synthesis, including brain MRI and cross-domain cardiac MRI synthesis, paving the way toward alleviating data scarcity in medical imaging analysis. 
+My research advances AI for healthcare through <span style="color:#E67E22;">**generative AI and physics-informed**</span> deep learning to model, analyze, and synthesize anatomical structures and their changes in medical images, with three main objectives. (1) <span style="color:#E67E22;">**Generative medical image synthesis**</span>: I develop diffusion-based generative models to synthesize realistic, topology-preserving medical images, videos, and longitudinal MRI sequences, improving anatomical plausibility and temporal consistency while addressing data scarcity. (2) <span style="color:#E67E22;">**Generative atlas construction**</span>: I use generative models to build sharp, population-representative anatomical atlases that characterize population-level anatomy and individual variation, overcoming the blurriness of averaging-based atlases. Across (1) and (2), I work with DDPM, Brownian bridge diffusion, and flow matching. (3) <span style="color:#E67E22;">**Deformable image registration**</span>: I develop geodesic- and motion-informed registration algorithms to quantify anatomical change and assess motion, with improved computational efficiency and generalization to unseen data. **These efforts support Alzheimer's disease research, cardiac motion analysis, longitudinal brain tumor tracking, and broader AI-driven healthcare**. 
+
 
 I have publications in leading venues including MICCAI, IPMI, ISBI, and MELBA.
 
